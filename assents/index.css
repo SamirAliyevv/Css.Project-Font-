@@ -7,13 +7,12 @@
 
 .product {
     max-width: 100%;
-    background-color: #E9ECF4;
+    background-color: #F5F6F9;
     padding-top: 24rem;
     margin-right: 40rem;
     margin-left: 40rem;
-    margin-top: 10rem;
+    margin-top: 9rem;
     border-radius: 10px;
-    border: 200px;
 
 }
 
@@ -27,9 +26,15 @@
 }
 
 .text {
-    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    font-family: sans-serif,bold;
     font-weight: 900px;
       left: 20px;
      bottom: 8rem;
 
+}
+.price{
+    font-family: sans-serif,bold;
+    font-weight: 900px;
+    left: 25px;
+    bottom: 1rem;
 }
