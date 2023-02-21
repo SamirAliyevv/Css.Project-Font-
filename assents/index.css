@@ -1,26 +1,35 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     position: relative;
 }
-.product{
-      max-width: 100%;
-      background-color:blue;
-      padding-top: 24rem;
-      margin-right: 40rem;
-       margin-left: 40rem;
-       margin-top: 10rem;
-        border-radius: 10px;
-         border: 200px;
+
+.product {
+    max-width: 100%;
+    background-color: #E9ECF4;
+    padding-top: 24rem;
+    margin-right: 40rem;
+    margin-left: 40rem;
+    margin-top: 10rem;
+    border-radius: 10px;
+    border: 200px;
 
 }
-.img{
-        position: absolute;
-         width: 7rem;
-         top: 45px;
-         left: 70px;
 
-          
+.img {
+    position: absolute;
+    width: 7rem;
+    top: 45px;
+    left: 70px;
+
+
 }
 
+.text {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    font-weight: 900px;
+      left: 20px;
+     bottom: 8rem;
+
+}
