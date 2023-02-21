@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+.product{
+      max-width: 100%;
+      background-color:blue;
+      padding-top: 24rem;
+      margin-right: 40rem;
+       margin-left: 40rem;
+       margin-top: 10rem;
+        border-radius: 10px;
+         border: 200px;
+
+}
+.img{
+        position: absolute;
+         width: 7rem;
+         top: 45px;
+         left: 70px;
+
+          
+}
+
